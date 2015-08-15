@@ -1,0 +1,17 @@
+pkgbase = blinkensisters
+	pkgdesc = Open source jump'n'run game in 80s retro style (aka 'Hunt for The Lost Pixels')
+	pkgver = 0.5.3
+	pkgrel = 2
+	url = http://blinkensisters.at
+	arch = i686
+	arch = x86_64
+	license = GPL2
+	makedepends = cmake
+	depends = sdl_mixer
+	depends = sdl_image
+	depends = sdl_net
+	depends = sdl_ttf
+	source = http://downloads.sourceforge.net/blinkensisters/LostPixels-0.5.3-source.tar.gz
+
+pkgname = blinkensisters
+
